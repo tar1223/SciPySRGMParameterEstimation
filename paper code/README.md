@@ -1,0 +1,3 @@
+- **J1 Dataset:** A software defect dataset from one of the Jet Propulsion Laboratory (JPL) projects, consisting of about 14,000 lines of uncommented assembly language code, in which approximately 9.5 defects per thousand lines of code (KLOC) were discovered.
+- **J2 Dataset:** Like J1, another JPL project, comprising about 7,000 lines of uncommented HAL/S source code and about 15,000 lines of assembly language source code, where approximately 10.2 defects per KLOC were found.
+- **J3 Dataset:** A software defect dataset reconstructed from part of the testing profile of J2, in which approximately 10.1 defects per KLOC were discovered.
